@@ -1,7 +1,7 @@
 import React from 'react';
 import MarketingApp from './components/MarketingApp';
 
-// NOTE
+// NOTES
 // In a use case exporting directly the react component would be easy right now 
 // (in this case the marketing App in the marketing folder), but in the future
 // If it was decided to use other framework different than React we would have a lot of problems, like update all the 
